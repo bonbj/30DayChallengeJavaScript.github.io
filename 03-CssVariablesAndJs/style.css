@@ -1,0 +1,54 @@
+:root {
+    --base: #ffc600;
+    --spacing: 10px;
+    --blur: 10px;
+}
+
+body {
+    text-align: center;
+    background-color: teal;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: white;    
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white; 
+}
+
+input {
+    width: 150px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.container > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div > h2 {
+    margin-right: 10px;
+}
+
+.img {
+    padding: var(--spacing);
+    background-color: var(--base);
+    filter: blur(var(--blur));
+    width: 700px;
+    height: 500px;
+}
+
+.color-h1 {
+    color: var(--base);
+    display: inline;
+}
