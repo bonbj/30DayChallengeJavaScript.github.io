@@ -12,3 +12,5 @@ Course of JavaScript 30 days by: [wesbos](https://javascript30.com/)
 [05 Flex Panel Gallery](https://bonbj.github.io/30DayChallengeJavaScript.github.io/05-FlexPanelGallery/) Panel with transition and events javaScript.
 
 [06 Type Ahead](https://bonbj.github.io/30DayChallengeJavaScript.github.io/06-TypeAhead/) List with RegExp, json and rotate css.
+
+[07 Array Cardio Day2](https://bonbj.github.io/30DayChallengeJavaScript.github.io/07-ArrayCardioDay2/) Manipulation of array ES6.
