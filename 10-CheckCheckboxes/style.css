@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: khaki;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bold;
+}
+
+.checkbox {
+	margin: 10px auto;
+	background-color: white;
+	max-width: 500px;
+	border-radius: 8px;
+	box-shadow: 10px 10px 0 rgba(0,0,0,0.1);
+}
+
+.checkbox-item {
+	display: flex;
+	align-items: center;
+	border-bottom: 1px solid royalblue;
+}
+
+.checkbox-item-check {
+	margin: 25px;
+}
+
+.checkbox-item-text {
+	padding: 25px;
+	border-left: 1px solid royalblue;
+}
+
+/*if the checkbox is checked, use css in the class after the plus*/
+.checkbox-item-check:checked + .checkbox-item-text {
+	text-decoration: line-through;
+}

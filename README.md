@@ -18,3 +18,5 @@ Course of JavaScript 30 days by: [wesbos](https://javascript30.com/)
 [08 Fun With HTML5 Canvas](https://bonbj.github.io/30DayChallengeJavaScript.github.io/08-FunWithHTML5Canvas/) Canvas manipulation.
 
 [09 Dev Tools Domination](https://bonbj.github.io/30DayChallengeJavaScript.github.io/09-DevToolsDomination/) Console tricks.
+
+[10 Check Checkboxes](https://bonbj.github.io/30DayChallengeJavaScript.github.io/10-CheckCheckboxes/) Check event and Shift in JS.
