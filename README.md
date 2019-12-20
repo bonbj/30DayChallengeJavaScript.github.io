@@ -22,3 +22,5 @@ Course of JavaScript 30 days by: [wesbos](https://javascript30.com/)
 [10 Check Checkboxes](https://bonbj.github.io/30DayChallengeJavaScript.github.io/10-CheckCheckboxes/) Check event and Shift in JS.
 
 [11 HTML Video Player](https://bonbj.github.io/30DayChallengeJavaScript.github.io/11-HTMLVideoPlayer/) Custom video player.
+
+[12 Key Sequence Detection](https://bonbj.github.io/30DayChallengeJavaScript.github.io/12-KeySequenceDetection/) Key event JS.
