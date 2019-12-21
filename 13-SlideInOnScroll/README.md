@@ -1,0 +1,1 @@
+Image by [Pixabay](https://pixabay.com/pt/) from [TerriC](https://pixabay.com/pt/users/terric-4014469/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3024434)
