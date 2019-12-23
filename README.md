@@ -26,3 +26,5 @@ Course of JavaScript 30 days by: [wesbos](https://javascript30.com/)
 [12 Key Sequence Detection](https://bonbj.github.io/30DayChallengeJavaScript.github.io/12-KeySequenceDetection/) Key event JS.
 
 [13 Slide in on Scroll](https://bonbj.github.io/30DayChallengeJavaScript.github.io/13-SlideInOnScroll/) Scroll and Time event JS.
+
+[14 JS Reference VS Copy](https://bonbj.github.io/30DayChallengeJavaScript.github.io/14-JSReferenceVsCopy/) Reference or copy?.
