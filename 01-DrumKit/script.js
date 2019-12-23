@@ -1,13 +1,12 @@
 /* for show key id : onkeypress="alert(event.keyCode);" */
 //event of change of css
 function change(id){
-    let A = document.getElementById(id);
-    A.classList.add('box-active');
-    var timeA = setTimeout(setColor, 70);
-    function setColor() {
-        let a = document.getElementById(id);
-        a.classList.remove('box-active');
-    }
+    let keyDrum = document.getElementById(id);
+    keyDrum.classList.add('box-active');
+    var timeA = setTimeout( () => {
+        let keyDrum = document.getElementById(id);
+        keyDrum.classList.remove('box-active');
+    }, 70);
 }
 // capture the event code and transform in audio and css
 function keyEvent(event){
