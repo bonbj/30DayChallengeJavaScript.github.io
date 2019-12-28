@@ -32,3 +32,6 @@ Course of JavaScript 30 days by: [wesbos](https://javascript30.com/)
 [15 Local Storage](https://bonbj.github.io/30DayChallengeJavaScript.github.io/15-LocalStorage/) Local storage "never" use this.
 
 [16 Mouse Shadow](https://bonbj.github.io/30DayChallengeJavaScript.github.io/16-MouseShadow/) Mouse Positon event.
+
+[17 Sort Without Articles](https://bonbj.github.io/30DayChallengeJavaScript.github.io/17-SortWithoutArticles/) 
+Sort and cut string event.

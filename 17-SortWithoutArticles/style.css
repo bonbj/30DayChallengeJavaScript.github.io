@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  background-image: linear-gradient(rgb(2, 134, 147), rgb(142, 202, 212));
+}
+
+.bands {
+  margin: 0 auto;
+  margin-top: 45px;
+  margin-bottom: 45px;
+  list-style: inside square;
+  font-size: 20px;
+  background: rgb(255, 255, 255);
+  width: 40%;
+  min-width: 260px;
+  padding: 0;
+  box-shadow: 0 0 0 20px rgba(0, 0, 0, 0.178);
+}
+
+.bands-item {
+  border-bottom: 1px solid wheat;
+  padding: 20px;
+}
+
+.bands-item:last-child {
+  border-bottom: 0;
+}
