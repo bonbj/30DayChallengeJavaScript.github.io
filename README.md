@@ -35,3 +35,5 @@ Course of JavaScript 30 days by: [wesbos](https://javascript30.com/)
 
 [17 Sort Without Articles](https://bonbj.github.io/30DayChallengeJavaScript.github.io/17-SortWithoutArticles/) 
 Sort and cut string event.
+
+[18 Reduce With Div](https://bonbj.github.io/30DayChallengeJavaScript.github.io/18-ReduceWithDiv/) Reduce with divs.
