@@ -37,3 +37,7 @@ Course of JavaScript 30 days by: [wesbos](https://javascript30.com/)
 Sort and cut string event.
 
 [18 Reduce With Div](https://bonbj.github.io/30DayChallengeJavaScript.github.io/18-ReduceWithDiv/) Reduce with divs.
+
+19 coming soon
+
+[20 Speech Detection](https://bonbj.github.io/30DayChallengeJavaScript.github.io/20-SpeechDetection/) standard voice recognition from browsers.

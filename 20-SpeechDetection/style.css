@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100vh;
+    background-image: linear-gradient(rgb(88, 190, 216),rgb(108, 161, 84));
+    padding: 60px;
+}
+
+.text {
+    padding: 40px;
+    border-radius: 25px;
+    background-color: wheat;
+    box-shadow: 20px 20px 3px rgba(0, 0, 0, 0.521);
+}
+
+.text > p {
+    padding: 5px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-bottom: violet solid 2px;
+}
