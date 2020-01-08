@@ -38,6 +38,10 @@ Sort and cut string event.
 
 [18 Reduce With Div](https://bonbj.github.io/30DayChallengeJavaScript.github.io/18-ReduceWithDiv/) Reduce with divs.
 
-19 coming soon
+19 Coming soon.
 
-[20 Speech Detection](https://bonbj.github.io/30DayChallengeJavaScript.github.io/20-SpeechDetection/) standard voice recognition from browsers.
+[20 Speech Detection](https://bonbj.github.io/30DayChallengeJavaScript.github.io/20-SpeechDetection/) Standard voice recognition from browsers.
+
+21 Coming soon.
+
+[22 Follow Along Links](https://bonbj.github.io/30DayChallengeJavaScript.github.io/22-FollowAlongLinks/) Move itens with getBoundingClientRect().
