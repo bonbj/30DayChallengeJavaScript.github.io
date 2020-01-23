@@ -47,3 +47,5 @@ Sort and cut string event.
 [22 Follow Along Links](https://bonbj.github.io/30DayChallengeJavaScript.github.io/22-FollowAlongLinks/) Move itens with getBoundingClientRect().
 
 [23 Speech Synthesis](https://bonbj.github.io/30DayChallengeJavaScript.github.io/23-SpeechSynthesis/) Speech synthesis!!!.
+
+[24 Stick Nav](https://bonbj.github.io/30DayChallengeJavaScript.github.io/24-StickNav/) CSS event by JS.
