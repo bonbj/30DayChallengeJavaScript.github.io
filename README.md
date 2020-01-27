@@ -49,3 +49,5 @@ Sort and cut string event.
 [23 Speech Synthesis](https://bonbj.github.io/30DayChallengeJavaScript.github.io/23-SpeechSynthesis/) Speech synthesis!!!.
 
 [24 Stick Nav](https://bonbj.github.io/30DayChallengeJavaScript.github.io/24-StickNav/) CSS event by JS.
+
+[25 Event Capture](https://bonbj.github.io/30DayChallengeJavaScript.github.io/25-EventCapture/) Event Capture.
