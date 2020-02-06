@@ -59,3 +59,5 @@ Sort and cut string event.
 [28 Video Speed Scrubber](https://bonbj.github.io/30DayChallengeJavaScript.github.io/28-VideoSpeedScrubber/) Video speed with js.
 
 [29 Countdown Timer](https://bonbj.github.io/30DayChallengeJavaScript.github.io/29-CountdownTimer/) Countdown time in JS.
+
+[30 Whack A Mole](https://bonbj.github.io/30DayChallengeJavaScript.github.io/30-WhackAMole/) A game make with js and css.
