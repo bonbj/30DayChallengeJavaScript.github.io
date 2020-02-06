@@ -55,3 +55,5 @@ Sort and cut string event.
 [26 Follow Along Nav](https://bonbj.github.io/30DayChallengeJavaScript.github.io/26-FollowAlongNav/) Mouse hover event and divs coordinates.
 
 [27 Click And Drag](https://bonbj.github.io/30DayChallengeJavaScript.github.io/27-ClickAndDrag/) Scroll move on JS.
+
+[28 Video Speed Scrubber](https://bonbj.github.io/30DayChallengeJavaScript.github.io/28-VideoSpeedScrubber/) Video speed with js.
