@@ -53,3 +53,5 @@ Sort and cut string event.
 [25 Event Capture](https://bonbj.github.io/30DayChallengeJavaScript.github.io/25-EventCapture/) Event Capture.
 
 [26 Follow Along Nav](https://bonbj.github.io/30DayChallengeJavaScript.github.io/26-FollowAlongNav/) Mouse hover event and divs coordinates.
+
+[27 Click And Drag](https://bonbj.github.io/30DayChallengeJavaScript.github.io/27-ClickAndDrag/) Scroll move on JS.
