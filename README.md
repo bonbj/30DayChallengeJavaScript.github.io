@@ -51,3 +51,5 @@ Sort and cut string event.
 [24 Stick Nav](https://bonbj.github.io/30DayChallengeJavaScript.github.io/24-StickNav/) CSS event by JS.
 
 [25 Event Capture](https://bonbj.github.io/30DayChallengeJavaScript.github.io/25-EventCapture/) Event Capture.
+
+[26 Follow Along Nav](https://bonbj.github.io/30DayChallengeJavaScript.github.io/26-FollowAlongNav/) Mouse hover event and divs coordinates.
