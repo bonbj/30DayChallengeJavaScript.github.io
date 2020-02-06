@@ -42,7 +42,7 @@ Sort and cut string event.
 
 [20 Speech Detection](https://bonbj.github.io/30DayChallengeJavaScript.github.io/20-SpeechDetection/) Standard voice recognition from browsers.
 
-21 Coming soon.
+[21 Geolocation](https://bonbj.github.io/30DayChallengeJavaScript.github.io/21-Geolocation/) Standard geolocation.
 
 [22 Follow Along Links](https://bonbj.github.io/30DayChallengeJavaScript.github.io/22-FollowAlongLinks/) Move itens with getBoundingClientRect().
 
