@@ -38,7 +38,7 @@ Sort and cut string event.
 
 [18 Reduce With Div](https://bonbj.github.io/30DayChallengeJavaScript.github.io/18-ReduceWithDiv/) Reduce with divs.
 
-19 Coming soon.
+[19 Web Can Fron JS](https://bonbj.github.io/30DayChallengeJavaScript.github.io/19-WebCanFronJS/) External devices by JS.
 
 [20 Speech Detection](https://bonbj.github.io/30DayChallengeJavaScript.github.io/20-SpeechDetection/) Standard voice recognition from browsers.
 
